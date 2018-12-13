@@ -1,0 +1,17 @@
+img{width:160px;
+}
+h1{text-align:center; padding:5px; font-family: 'Kaushan Script', cursive;
+background-color:blue; color:white;
+}
+.btn-first{padding:5px;
+}
+a h3{color:blue;
+}
+a :hover{color:red;
+}
+body{background-color:grey;
+}
+h2{text-align: center; font-family: 'Kaushan Script', cursive;
+}
+.jumbotron{text-align: center;
+}
