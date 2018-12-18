@@ -20,7 +20,7 @@ h2{text-align: center; font-family: 'Kaushan Script', cursive;
 h3{text-decoration: underline dotted black;font-family: 'ZCOOL XiaoWei', cursive;
 }
 .col-xs-4{border:3px solid black;
-  background-color:white;
+  background-color:white; margin: 10px;
 }
 .happys{text-align:center; background-color: silver;
 border:5px dotted red; margin-top: 5px;
